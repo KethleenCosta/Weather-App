@@ -1,3 +1,5 @@
+// Este projeto foi desenvolvido com base no tutorial "How To Make Weather App Using JavaScript Step By Step Explained" de GreatStack no YouTube. 
+
 const container = document.querySelector('.container');
 const search = document.querySelector('.search-box button');
 const weatherBox = document.querySelector('.weather-box');
